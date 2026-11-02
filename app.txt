@@ -1,0 +1,3 @@
+Application Name: Company Portal
+Version: 1.0
+Status: Development Started
