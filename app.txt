@@ -1,4 +1,5 @@
 Application Name: Company Portal
 Version: 2.0
-Status: Production Ready
+Status: Development Completed
 Developer: Eshwar
+Feature: Notification module started
